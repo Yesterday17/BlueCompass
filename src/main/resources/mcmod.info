@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bluecompass",
+  "name": "Blue Compass",
+  "description": "Fan-oriented minecraft mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yesterday17"],
+  "credits": "Inori Minase.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
